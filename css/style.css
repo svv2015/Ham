@@ -490,16 +490,6 @@ header {
     background-color: #18CFAB;
 }
 
-.icon-chain {
-    background-image: url(../img/icons/icon-chain.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.icon-chain:hover {
-    background-image: url(../img/icons/icon-chain-white.svg);
-}
-
 .item-link>span {
     width: 13px;
     height: 13px;
